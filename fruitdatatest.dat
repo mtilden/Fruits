@@ -1,0 +1,21 @@
+tree 123456a
+fruit small hard sour
+fruit midsize firm bland
+fruit large hard sour
+    tree 
+          
+         2234567
+tree 3234567
+tree 4234567
+    fruit 
+        small 
+        soft 
+        sour
+tree 123456a
+    fruit midsize hard bland
+tree 123456A
+    fruit large firm sweet
+tree AAAAAAA
+    fruit midsize hard bland
+tree BBBBBBA
+    fruit large firm sweet
